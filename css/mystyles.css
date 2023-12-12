@@ -5,7 +5,7 @@
 }
 
 .my-background {
-    background-color: cornflowerblue
+    background-color: cornflowerblue;
 }
 
 .my-font {
@@ -14,5 +14,5 @@
 
 .my-titles {
     font-family: fantasy;
-    font-size: large
+    font-size: large;
 }
