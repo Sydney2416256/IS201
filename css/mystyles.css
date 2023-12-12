@@ -13,7 +13,8 @@
     color: black;
 }
 
-.my-titles {
+.my-buttons {
     font-family: fantasy;
     font-size: large;
+    left: 10px; 
 }
