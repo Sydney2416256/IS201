@@ -1,0 +1,18 @@
+.custom-size {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    color: white;
+}
+
+.my-background {
+    background-color: cornflowerblue
+}
+
+.my-font {
+    font-family: fantasy
+}
+
+.my-titles {
+    font-family: fantasy;
+    font-size: large
+}
